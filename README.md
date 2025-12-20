@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpg" width="85%" />
+  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpeg" width="85%" />
 </p>
 
 <h1 align="center">🗡️ Izhar Khan 🗡️</h1>
@@ -80,7 +80,7 @@ Only growth.
 ## 📊 Power Level
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izhar-Khan-02358&show_icons=true&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Izhar-Khan-02358&show_icons=true&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
 <p align="center">
@@ -88,8 +88,9 @@ Only growth.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izhar-Khan-02358&theme=tokyonight&hide_border=true" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=Izhar-Khan-02358&theme=tokyonight&hide_border=true" width="65%" />
 </p>
+
 
 ---
 
