@@ -46,14 +46,14 @@ Only progress.
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 </p>
 
+### Tools & Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
 ### Web & UI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-### Tools & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
