@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpeg" width="800rem" height="500rem" />
+  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpeg"
+       width="800" height="500" />
 </p>
 
 <h1 align="center">🗡️ Izhar Khan 🗡️</h1>
@@ -7,11 +8,6 @@
 <h3 align="center">
 From Weakness to Awakening • Clearing Dungeons with Code
 </h3>
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/github/followers/Izhar-Khan-02358?label=Followers&style=flat&logo=github&color=white&labelColor=white" />
-  <img src="https://img.shields.io/github/stars/Izhar-Khan-02358?label=Stars&style=flat&logo=github&color=white&labelColor=white" />
-</p> -->
 
 ---
 
@@ -23,7 +19,7 @@ I’m **Izhar**, a Computer Science student who believes real strength is built 
 **fundamentals, consistency, and discipline**.
 
 Like Jin-Woo, I:
-- started small  
+- started from basics  
 - fight harder problems every day  
 - level up through real projects  
 - focus on **logic, systems, and clean execution**
@@ -36,18 +32,18 @@ Only growth.
 ## ⚔️ Hunter Profile
 
 - 🎓 **B.Tech CSE Student**
-- 💻 Strong in **C / C++ / STL / Problem Solving**
-- 🧠 Exploring **AI, Automation, Systems**
+- 💻 Strong in **C, C++ (STL), Problem Solving**
+- 🧠 Learning **AI automation & workflows**
 - 🏆 Competitive Programming (HackerRank, Codeforces)
-- 🌍 Interested in **Smart Safety & Healthcare Tech**
+- 🌍 Interested in **automation, systems & real-world apps**
 
 ---
 
-## 🗡️ Shadow Arsenal
+## 🗡️ Shadow Arsenal (Actual Tech Stack)
 
-### Core Languages
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python&theme=dark" />
 </p>
 
 ### Development
@@ -62,18 +58,16 @@ Only growth.
 
 ---
 
-## 🧩 Active Dungeons
+## 🧩 Active Dungeons (My GitHub Projects)
 
-| Project | Description | Tech |
-|------|------------|------|
-| **AURA_ONE** | Smart safety & companion system | Flutter, Dart |
-| **Soul-Companion** | AI-assisted concept project | JavaScript |
-| **TRAIL_RUN_AGENTIC_AUTOMATION** | n8n automation workflow | n8n, AI |
-| **Graphica** | JavaScript visualization project | JavaScript |
-| **aptos-project** | Blockchain exploration | Move |
+| Project | What it is | Tech Used |
+|------|-----------|-----------|
+| **AURA_ONE** | Safety & assistance application | Flutter, Dart |
+| **TRAIL_RUN_AGENTIC_AUTOMATION** | AI-driven automation workflow | n8n, AI |
+| **Graphica** | JavaScript-based visualization project | JavaScript |
+| **aptos-project** | Blockchain learning project | Move |
 
-> Every project is a dungeon cleared.  
-> Every bug is a boss fight.
+> Each repository represents learning through building, not theory alone.
 
 ---
 
@@ -87,13 +81,12 @@ Only growth.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhar-Khan-02358&layout=compact&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
-
 ---
 
 ## 🌌 Current Training Arc
 
-- 📘 Deepening **C++ & STL**
-- ⚙️ Building **automation + AI workflows**
+- 📘 Strengthening **C++ & STL**
+- ⚙️ Building **automation using n8n**
 - 🧠 Improving **system-level thinking**
 - 🚀 Preparing for **internships & open-source**
 
