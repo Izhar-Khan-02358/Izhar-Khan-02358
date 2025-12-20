@@ -15,27 +15,27 @@ From Weakness to Awakening • Clearing Dungeons with Code
 
 > *“If I don’t fight, I won’t survive.”* — **Sung Jin-Woo**
 
-I’m **Izhar**, a Computer Science student who believes real strength is built through  
-**fundamentals, consistency, and discipline**.
+I’m **Izhar**, a Computer Science student focused on building skills through  
+**consistent practice, real projects, and problem solving**.
 
-Like Jin-Woo, I:
-- started from basics  
-- fight harder problems every day  
-- level up through real projects  
-- focus on **logic, systems, and clean execution**
+Like Jin-Woo, I believe in:
+- starting from fundamentals  
+- improving step by step  
+- learning by building and contributing  
+- growing stronger with every challenge  
 
 No shortcuts.  
-Only growth.
+Only progress.
 
 ---
 
 ## ⚔️ Hunter Profile
 
 - 🎓 **B.Tech CSE Student**
-- 💻 Strong in **C, C++ (STL), Problem Solving**
-- 🧠 Learning **AI automation & workflows**
-- 🏆 Competitive Programming (HackerRank, Codeforces)
-- 🌍 Interested in **automation, systems & real-world apps**
+- 💻 Strong in **C / C++ / STL / Problem Solving**
+- 🧠 Exploring **AI workflows & automation**
+- 🏆 Competitive Programming (**Codeforces**, HackerRank)
+- 🌍 Interested in **web, AI, and real-world problem solving**
 
 ---
 
@@ -43,12 +43,12 @@ Only growth.
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 </p>
 
-### Development
+### Web & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,flutter,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
 ### Tools & Systems
@@ -60,14 +60,24 @@ Only growth.
 
 ## 🧩 Active Dungeons (My GitHub Projects)
 
-| Project | What it is | Tech Used |
-|------|-----------|-----------|
-| **AURA_ONE** | Safety & assistance application | Flutter, Dart |
-| **TRAIL_RUN_AGENTIC_AUTOMATION** | AI-driven automation workflow | n8n, AI |
-| **Graphica** | JavaScript-based visualization project | JavaScript |
-| **aptos-project** | Blockchain learning project | Move |
+| Project | Description | Tech |
+|------|------------|------|
+| **CodeForces** | Competitive programming solutions and practice | C++ |
+| **Amazon-Clone** | Frontend Amazon UI clone | HTML, CSS |
+| **Spotify-Clone** | Responsive Spotify UI clone | HTML, CSS |
+| **Medicine-Donation-Portal** | Platform to reduce medicine waste by connecting donors and recipients | HTML, CSS |
+| **Trail-Run-AI-Model** | n8n-based AI assistant that analyzes calendar, weather, AQI & trail data to suggest running decisions | n8n, AI |
+| **Patient-Summary-Recovery-Graph** | n8n workflow that generates AI-based patient summaries and recovery graphs | n8n, AI |
 
-> Each repository represents learning through building, not theory alone.
+---
+
+## 🧠 Open Source Contribution
+
+- 🔗 **AURA_ONE**  
+  Contributed via **Pull Request**, gaining experience with:
+  - collaborating on shared codebases  
+  - understanding existing project architecture  
+  - improving features through review-based development  
 
 ---
 
@@ -85,9 +95,9 @@ Only growth.
 
 ## 🌌 Current Training Arc
 
-- 📘 Strengthening **C++ & STL**
-- ⚙️ Building **automation using n8n**
-- 🧠 Improving **system-level thinking**
+- 📘 Practicing **DSA & C++** via Codeforces  
+- ⚙️ Building **AI automation using n8n**
+- 🧠 Strengthening **problem-solving mindset**
 - 🚀 Preparing for **internships & open-source**
 
 ---
