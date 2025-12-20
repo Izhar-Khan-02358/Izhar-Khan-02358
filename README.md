@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpeg" width="85%" />
+  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpeg" width="3rem" height="2rem" />
 </p>
 
 <h1 align="center">🗡️ Izhar Khan 🗡️</h1>
@@ -85,10 +85,6 @@ Only growth.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhar-Khan-02358&layout=compact&theme=tokyonight&hide_border=true" width="65%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Izhar-Khan-02358&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
 
