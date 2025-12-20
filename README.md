@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://share.google/images/ytaKRW6PjVqQfR89c" width="100%" />
+ ![WhatsApp Image 2025-12-20 at 1 19 51 PM](https://github.com/user-attachments/assets/9a8d91c7-1b3d-45c0-933d-34738d7c4f6c)
+
 </p>
 
 <h1 align="center">⚔️ I’m Izhar Khan ⚔️</h1>
