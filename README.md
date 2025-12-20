@@ -8,10 +8,10 @@
 From Weakness to Awakening • Clearing Dungeons with Code
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/github/followers/Izhar-Khan-02358?label=Followers&style=flat&logo=github&color=white&labelColor=white" />
   <img src="https://img.shields.io/github/stars/Izhar-Khan-02358?label=Stars&style=flat&logo=github&color=white&labelColor=white" />
-</p>
+</p> -->
 
 ---
 
