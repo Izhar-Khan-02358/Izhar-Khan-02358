@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpeg" width="300rem" height="200rem" />
+  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jinwoo.jpeg" width="3000rem" height="2000rem" />
 </p>
 
 <h1 align="center">🗡️ Izhar Khan 🗡️</h1>
