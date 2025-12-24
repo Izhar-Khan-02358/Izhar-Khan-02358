@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jin.gif"
        width="800" height="500" />
-</p>
+</p> -->
 
 <h1 align="center">🗡️ Izhar Khan 🗡️</h1>
 
