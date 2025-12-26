@@ -91,7 +91,7 @@ Only progress.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Izhar-Khan-02358&theme=tokyonight"  width="65%" />
-</p>>
+</p>
 
 ---
 
