@@ -84,8 +84,9 @@ Only progress.
 ## 📊 Power Level
 
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhar-Khan-02358&layout=compact&theme=tokyonight&hide_border=true" width="65%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Izhar-Khan-02358&layout=compact&theme=tokyonight&hide_border=true" width="65%" alt="Izhar-Khan-02358's Top Langs" />
 </p>
 
 <p align="center">
