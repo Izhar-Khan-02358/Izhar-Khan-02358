@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Izhar-Khan-02358/Izhar-Khan-02358/main/jin.gif"
-       width="800" height="500" />
-</p> -->
 
 <h1 align="center">🗡️ Izhar Khan 🗡️</h1>
 
@@ -19,10 +15,10 @@ I’m **Izhar**, a Computer Science student focused on building skills through
 **consistent practice, real projects, and problem solving**.
 
 Like Jin-Woo, I believe in:
-- starting from fundamentals  
-- improving step by step  
-- learning by building and contributing  
-- growing stronger with every challenge  
+- starting from fundamentals
+- improving step by step
+- learning by building and contributing
+- growing stronger with every challenge
 
 No shortcuts.  
 Only progress.
@@ -41,19 +37,8 @@ Only progress.
 
 ## 🗡️ Shadow Arsenal (Actual Tech Stack)
 
-### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
-</p>
-
-### Tools & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-### Web & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,html,css,mysql,postgresql,mongodb,docker,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
@@ -75,29 +60,29 @@ Only progress.
 
 - 🔗 **AURA_ONE**  
   Contributed via **Pull Request**, gaining experience with:
-  - collaborating on shared codebases  
-  - understanding existing project architecture  
-  - improving features through review-based development  
+  - collaborating on shared codebases
+  - understanding existing project architecture
+  - improving features through review-based development
+
+<p align="center">
+  <a href="https://github.com/Izhar-Khan-02358?tab=pullrequests">
+    <img src="https://img.shields.io/badge/View_My_Pull_Requests-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📊 Power Level
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Izhar-Khan-02358&layout=compact&theme=tokyonight&hide_border=true" width="65%" alt="Izhar-Khan-02358's Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Izhar-Khan-02358&theme=tokyonight"  width="65%" />
+  <img src="./profile/stats.svg" alt="Izhar's GitHub Statistics" width="100%" />
 </p>
 
 ---
 
 ## 🌌 Current Training Arc
 
-- 📘 Practicing **DSA & C++** via Codeforces  
+- 📘 Practicing **DSA & C++** via Codeforces
 - ⚙️ Building **AI automation using n8n**
 - 🧠 Strengthening **problem-solving mindset**
 - 🚀 Preparing for **internships & open-source**
@@ -114,10 +99,7 @@ Only progress.
 ## 🔗 Enter the Gate
 
 <p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:iqjajaiz786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
