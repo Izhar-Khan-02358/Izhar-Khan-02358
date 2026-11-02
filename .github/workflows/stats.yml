@@ -51,7 +51,6 @@ jobs:
                 user(login: $login) {
                   contributionsCollection(from: $from, to: $to) {
                     totalCommitContributions
-                    totalPullRequestReviewContributions
                   }
                 }
 
@@ -122,11 +121,6 @@ jobs:
                 color: "#3fb950"
               },
               {
-                label: "CODE REVIEWS",
-                value: data.user.contributionsCollection.totalPullRequestReviewContributions,
-                color: "#d2a8ff"
-              },
-              {
                 label: "ISSUES OPENED",
                 value: data.issues.issueCount,
                 color: "#f0883e"
@@ -134,7 +128,7 @@ jobs:
             ];
 
             const cards = stats.map((stat, index) => {
-              const x = 26 + index * 190;
+              const x = 105 + index * 198;
 
               return `
                 <g>
