@@ -75,8 +75,9 @@ Only progress.
 ## 📊 Power Level
 
 <p align="center">
-  <img src="./profile/stats.svg" width="100%" alt="GitHub Activity Statistics" />
+  <img src="./profile/stats.svg" width="100%" alt="GitHub Statistics" />
 </p>
+
 
 ---
 
