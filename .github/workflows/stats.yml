@@ -28,10 +28,26 @@ jobs:
           user: Izhar-Khan-02358
           filename: profile/stats.svg
 
-          base: header, activity, community, repositories, metadata
+          # Remove profile header and username
+          base: activity, community, repositories, metadata
           base_indepth: yes
 
+          # Improved layout
+          config_display: columns
+          config_padding: 24
+          config_animations: yes
           config_timezone: Asia/Kolkata
+
+          # Custom styling
+          extras_css: |
+            h2 {
+              color: #58a6ff;
+              font-weight: 700;
+            }
+
+            a {
+              color: #79c0ff;
+            }
 
           retries: 3
           retries_delay: 300
