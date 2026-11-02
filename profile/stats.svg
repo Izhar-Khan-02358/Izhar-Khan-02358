@@ -29,7 +29,7 @@
       
       <g>
         <rect
-          x="26" y="92"
+          x="105" y="92"
           width="178" height="116"
           rx="13"
           fill="#161b22"
@@ -37,27 +37,27 @@
         />
 
         <rect
-          x="26" y="92"
+          x="105" y="92"
           width="178" height="4"
           rx="2"
           fill="#58a6ff"
         />
 
         <circle
-          cx="50" cy="125"
+          cx="129" cy="125"
           r="5"
           fill="#58a6ff"
         />
 
         <text
-          x="43" y="166"
+          x="122" y="166"
           fill="#f0f6fc"
           font-size="32"
           font-weight="700"
-        >109</text>
+        >110</text>
 
         <text
-          x="43" y="188"
+          x="122" y="188"
           fill="#8b949e"
           font-size="12"
           font-weight="600"
@@ -67,7 +67,7 @@
     
       <g>
         <rect
-          x="216" y="92"
+          x="303" y="92"
           width="178" height="116"
           rx="13"
           fill="#161b22"
@@ -75,27 +75,27 @@
         />
 
         <rect
-          x="216" y="92"
+          x="303" y="92"
           width="178" height="4"
           rx="2"
           fill="#bc8cff"
         />
 
         <circle
-          cx="240" cy="125"
+          cx="327" cy="125"
           r="5"
           fill="#bc8cff"
         />
 
         <text
-          x="233" y="166"
+          x="320" y="166"
           fill="#f0f6fc"
           font-size="32"
           font-weight="700"
         >6</text>
 
         <text
-          x="233" y="188"
+          x="320" y="188"
           fill="#8b949e"
           font-size="12"
           font-weight="600"
@@ -105,7 +105,7 @@
     
       <g>
         <rect
-          x="406" y="92"
+          x="501" y="92"
           width="178" height="116"
           rx="13"
           fill="#161b22"
@@ -113,27 +113,27 @@
         />
 
         <rect
-          x="406" y="92"
+          x="501" y="92"
           width="178" height="4"
           rx="2"
           fill="#3fb950"
         />
 
         <circle
-          cx="430" cy="125"
+          cx="525" cy="125"
           r="5"
           fill="#3fb950"
         />
 
         <text
-          x="423" y="166"
+          x="518" y="166"
           fill="#f0f6fc"
           font-size="32"
           font-weight="700"
         >6</text>
 
         <text
-          x="423" y="188"
+          x="518" y="188"
           fill="#8b949e"
           font-size="12"
           font-weight="600"
@@ -143,7 +143,7 @@
     
       <g>
         <rect
-          x="596" y="92"
+          x="699" y="92"
           width="178" height="116"
           rx="13"
           fill="#161b22"
@@ -151,65 +151,27 @@
         />
 
         <rect
-          x="596" y="92"
-          width="178" height="4"
-          rx="2"
-          fill="#d2a8ff"
-        />
-
-        <circle
-          cx="620" cy="125"
-          r="5"
-          fill="#d2a8ff"
-        />
-
-        <text
-          x="613" y="166"
-          fill="#f0f6fc"
-          font-size="32"
-          font-weight="700"
-        >0</text>
-
-        <text
-          x="613" y="188"
-          fill="#8b949e"
-          font-size="12"
-          font-weight="600"
-          letter-spacing="0.5"
-        >CODE REVIEWS</text>
-      </g>
-    
-      <g>
-        <rect
-          x="786" y="92"
-          width="178" height="116"
-          rx="13"
-          fill="#161b22"
-          stroke="#30363d"
-        />
-
-        <rect
-          x="786" y="92"
+          x="699" y="92"
           width="178" height="4"
           rx="2"
           fill="#f0883e"
         />
 
         <circle
-          cx="810" cy="125"
+          cx="723" cy="125"
           r="5"
           fill="#f0883e"
         />
 
         <text
-          x="803" y="166"
+          x="716" y="166"
           fill="#f0f6fc"
           font-size="32"
           font-weight="700"
         >12</text>
 
         <text
-          x="803" y="188"
+          x="716" y="188"
           fill="#8b949e"
           font-size="12"
           font-weight="600"
